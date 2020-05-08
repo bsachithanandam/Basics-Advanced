@@ -9,7 +9,7 @@ Output: "184"
 import java.io.*;
 import java.util.*;
 
-class EXPat{
+class NumberAddition{
 	public static void main(String args[]){
 		int n1=0,n2=0,i,j,k=0,c,max;
 		String s1,s2;
